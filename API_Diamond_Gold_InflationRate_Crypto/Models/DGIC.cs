@@ -3,7 +3,7 @@ using System;
 
 namespace API_Diamond_Gold_InflationRate_Crypto
 {
-    [Measurement("_diamond_gond_inflation_crypto")]
+    [Measurement("_diamond_gold_inflation_crypto")]
     public class DGIC
     {
         [Column(IsTimestamp = true)]
